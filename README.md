@@ -10,4 +10,5 @@
 > [!IMPORTANT]
 > Before use read License
 
-LICENSE [LINK](https://github.com/042-bit/FlatBarr-Compilator/blob/main/LICENSE)
+## LICENSE 
+[LINK](https://github.com/042-bit/FlatBarr-Compilator/blob/main/LICENSE)
