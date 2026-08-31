@@ -1,1 +1,17 @@
+#########################################
+# FloatBarr Mit License by itsabi | 042 #
+# Core Version 1.0.0                    #
+# Compile version 1.10.17               #
+#########################################
 
+@copyright itsabi 2026
+
+This license permits the use of the software to compile your own code, 
+allows you to retain your code as private property and license it under your own terms, 
+and enables the publication, distribution, and commercial use of the compiled code without charge.
+
+However, it is strictly prohibited to distribute the compiler code, modify the author's code, 
+recompile it for further distribution, 
+use the compiler's data or backend in your own projects, 
+copy it, claim ownership of it, 
+make it publicly available (including online hosting), or reverse-engineer it; this is closed-source software.
