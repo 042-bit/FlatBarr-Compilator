@@ -1,4 +1,4 @@
-(https://github.com/042-bit/FlatbarrGraphic/blob/main/Barr%20Community.gif)
+
 
 # FlatBarr-Compilator
 
